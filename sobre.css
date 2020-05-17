@@ -1,0 +1,94 @@
+body {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1{
+    background-image: url(../img/sobre-background.jpg);
+    text-align: center;
+}
+h2 {
+    border-bottom: 2px solid #333333;
+}h3 {
+    border-bottom: 2px solid #333333;
+}
+
+figure{
+    background-color: #f2eded;
+    border: 1px double #ccc;
+    text-align: center;
+}
+figcaption{
+    font-style: italic;
+}
+h1{
+    padding: 10px
+}
+
+    figure{
+        padding: 15px;
+        margin: 30px;
+    }
+    figcaption{margin-top: 10px;}
+    #familia-pelho {
+        float: right;
+        padding-top: 10px;
+        margin: 0 0 10px 10px
+    }
+
+h2{
+    margin-top: 30px;
+    text-align: left;
+}
+p{
+    padding: 0 45px;
+    text-indent: 15px;
+    text-align: left;
+}
+figure{
+    padding: 15px;
+    margin: 30px;
+}
+
+figcaption{
+    margin-top: 10px;
+}
+h3{
+    margin-top: 30px;
+    text-align: left;
+}
+
+#centro-distribuicao {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+#rodape{
+    color:#777;
+    margin:30px 0;
+    padding:30px 0;
+    text-align: left;
+    color: blue;
+}
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 94px;
+    text-align: left;
+    color: blue;
+}
+ul{
+    text-align: left;
+}
+div{
+    text-align: left;
+}
+h4{
+    background-color: thistle;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+a{
+    color: blue
+}
